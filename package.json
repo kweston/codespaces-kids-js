@@ -1,0 +1,16 @@
+{
+  "name": "codespaces-kids-js-projects",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Five scaffolded JavaScript projects for kids in GitHub Codespaces.",
+  "scripts": {
+    "guess": "node guessing-game/index.js",
+    "rps": "node rps/index.js",
+    "todo": "node todo/index.js",
+    "chatbot": "node chatbot/index.js",
+    "web": "node web/server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
